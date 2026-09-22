@@ -92,7 +92,7 @@ The dashboard analyzes:
 The Power BI dashboard provides an interactive view of Instamart
 grocery store sales performance using KPIs, charts, filters,
 and detailed tables.
-
+![Instamart Dashboard](instamart.png)
 ## 💡 Key Insights
 
 The dashboard helps identify patterns in:
